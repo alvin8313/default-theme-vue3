@@ -1,10 +1,10 @@
 window.INIS = {
 
     // API地址 - 填写后端域名
-    api: 'https://api.inis.cn/api',
+    api: 'http://jiaowu.tpddns.cn:3661/api',
 
     // 后端开启token验证后，需要将token填写到此处
-    token: '123456',
+    token: '13955fa12eb41817b359bf60fc9569d8',
 
     // CDN配置，用于加速静态资源
     // cdn: 'https://cdn.inis.cc/theme/default/',
